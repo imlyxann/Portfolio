@@ -3,11 +3,13 @@ import { Github, Linkedin, Twitter, ChevronDown } from 'lucide-react';
 import portfolioData from './data/portfolio.json';
 import { ProjectCard } from './components/ProjectCard';
 import { ThemeProvider } from './hooks/useTheme';
+import { ThemeToggle } from './components/ThemeToggle';
+
 
 function App() {
   return (
     <ThemeProvider>
-      <div className="min-h-screen bg-white dark:bg-black text-black dark:text-white font-space transition-colors duration-500">        
+      <div className="min-h-screen bg-white dark:bg-black text-black dark:text-white font-space transition-colors duration-500">    
         {/* Hero Section */}
         <section className="min-h-screen flex items-center justify-center px-4 relative overflow-hidden">
           <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_rgba(0,0,0,0.1)_0%,_transparent_70%)] dark:bg-[radial-gradient(circle_at_center,_rgba(255,255,255,0.1)_0%,_transparent_70%)]" />
