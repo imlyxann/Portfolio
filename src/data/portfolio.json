@@ -1,0 +1,53 @@
+{
+  "profile": {
+    "name": "Lyxann",
+    "title": "Creative Developer",
+    "description": "Passionate about creating beautiful and functional web experiences",
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSX6OVtRdJ-ieO2Ki1dvZ6oogUy1VEDQ7tjQZija28KixUgYVcP",
+    "social": {
+      "github": "https://github.com/imlyxann",
+      "twitter": "https://discord.com/"
+    }
+  },
+  "projects": [
+    {
+      "title": "Lyra",
+      "description": "Un Projet de serveur Minecraft en Java avec MongoDb et Redis (Abandonné)",
+      "image": "https://images.unsplash.com/photo-1551794804-840faad68ba9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGJsYWNrJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D",
+      "tags": ["Java", "MongoDB & Redis", "Kubernetes"],
+      "link": "https://discord.gg/HpYZshZ3q3"
+    },
+    {
+      "title": "Shadow",
+      "description": "Un Modèle de Language puissant. Fait à partir de Llama 3, Mistral-7B et DeepSeek-R1 avec Lynx (Chat)",
+      "image": "https://images.unsplash.com/photo-1551794804-840faad68ba9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGJsYWNrJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D",
+      "tags": ["Java (Backend)", "Python (IA)", "MongoDb & Redis (Donnée et Site)", "Json", "(FrontEnd lié au Backend)"],
+      "link": "#"
+    },
+    {
+      "title": "Saturn",
+      "description": "Plateforme de Cryptomonaie synthétique et performante possédant un design parfait.",
+      "image": "https://images.unsplash.com/photo-1551794804-840faad68ba9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGJsYWNrJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D",
+      "tags": ["React (FrontEnd)", "Java (Backend)", "MongoDB & Redis", "Json", "(FrontEnd lié au Backend)"],
+      "link": "#"
+    },
+    {
+      "title": "Lumen",
+      "description": "Un Clone de Tiktok pour mon amusement",
+      "image": "https://images.unsplash.com/photo-1551794804-840faad68ba9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGJsYWNrJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D",
+      "tags": ["React (FrontEnd)", "Node.js (Backend)", "Java (Stockage)", "MySql & Redis", "Json", "(FrontEnd lié au Backend)"],
+      "link": "#"
+    }
+  ],
+  "skills": [
+    "Java",
+    "React (Depuis Décembre 2024)",
+    "Node.js (Depuis Janvier 2025)",
+    "Python (Uniquement pour L'ia)",
+    "Git",
+    "MongoDB, MySQL et Redis",
+    "Json, Xmpp, Rest, etc..",
+    "Kubernetes",
+    "RabbitMQ"
+  ]
+}
