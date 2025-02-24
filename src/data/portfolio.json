@@ -14,7 +14,7 @@
     {
       "title": "Lyra",
       "description": "Un Projet de serveur Minecraft en Java avec MongoDb et Redis (Abandonné)",
-      "tags": ["Java", "MongoDB & Redis", "Kubernetes"],
+      "tags": ["Java", "MongoDB (Principal)", "Redis (Cache)", "Kubernetes"],
       "link": "https://discord.gg/HpYZshZ3q3"
     },
     {
@@ -26,13 +26,13 @@
     {
       "title": "Saturn",
       "description": "Plateforme de Cryptomonaie synthétique et performante possédant un design parfait.",
-      "tags": ["React (FrontEnd)", "Java (Backend)", "MongoDB & Redis", "Json", "(FrontEnd lié au Backend)"],
+      "tags": ["React (FrontEnd)", "Java (Backend)", "MongoDB (Principal)", "Redis (Cache)", "Json", "(FrontEnd lié au Backend)"],
       "link": "#"
     },
     {
-      "title": "Lumen",
-      "description": "Un Clone de Tiktok pour mon amusement",
-      "tags": ["React (FrontEnd)", "Node.js (Backend)", "Java (Stockage)", "MySql & Redis", "Json", "(FrontEnd lié au Backend)"],
+      "title": "Saint",
+      "description": "Un Clone de Twitter mais avec des test de QI pour mon amusement (Insipration de FaceDev)",
+      "tags": ["React (FrontEnd)", "Java (Backend)", "MongoDb (Principal)", "Redis (Cache)", "Json", "(FrontEnd lié au Backend)"],
       "link": "#"
     }
   ],

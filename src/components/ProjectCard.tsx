@@ -77,16 +77,6 @@ export function ProjectCard({ project, index }: ProjectCardProps) {
             </motion.span>
           ))}
         </div>
-        <motion.a
-          target="_blank"
-          rel="noopener noreferrer"
-          whileHover={{ scale: 1.05 }} // Le bouton grandit sans se déplacer
-          whileTap={{ scale: 0.98 }}
-          className="group/link flex items-center justify-center gap-2 w-full py-3 bg-white text-black hover:bg-gray-100 transform translate-y-0 group-hover:translate-y-0 transition-all duration-500 delay-150 text-xl font-medium rounded-xl"
-        >
-          View Project
-          <ExternalLink className="w-6 h-6 transition-transform duration-300 group-hover/link:translate-x-1" />
-        </motion.a>
       </motion.div>
     </motion.div>
   );
