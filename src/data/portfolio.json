@@ -9,32 +9,29 @@
       "twitter": "https://discord.com/"
     }
   },
+  "dark": true,
   "projects": [
     {
       "title": "Lyra",
       "description": "Un Projet de serveur Minecraft en Java avec MongoDb et Redis (Abandonné)",
-      "image": "https://coolbackgrounds.io/images/backgrounds/black/pure-black-background-f82588d3.jpg",
       "tags": ["Java", "MongoDB & Redis", "Kubernetes"],
       "link": "https://discord.gg/HpYZshZ3q3"
     },
     {
       "title": "Shadow",
       "description": "Un Modèle de Language puissant. Fait à partir de Llama 3, Mistral-7B et DeepSeek-R1 avec Lynx (Chat)",
-      "image": "https://coolbackgrounds.io/images/backgrounds/black/pure-black-background-f82588d3.jpg",
       "tags": ["Java (Backend)", "Python (IA)", "MongoDb & Redis (Donnée et Site)", "Json", "(FrontEnd lié au Backend)"],
       "link": "#"
     },
     {
       "title": "Saturn",
       "description": "Plateforme de Cryptomonaie synthétique et performante possédant un design parfait.",
-      "image": "https://coolbackgrounds.io/images/backgrounds/black/pure-black-background-f82588d3.jpg",
       "tags": ["React (FrontEnd)", "Java (Backend)", "MongoDB & Redis", "Json", "(FrontEnd lié au Backend)"],
       "link": "#"
     },
     {
       "title": "Lumen",
       "description": "Un Clone de Tiktok pour mon amusement",
-      "image": "https://coolbackgrounds.io/images/backgrounds/black/pure-black-background-f82588d3.jpg",
       "tags": ["React (FrontEnd)", "Node.js (Backend)", "Java (Stockage)", "MySql & Redis", "Json", "(FrontEnd lié au Backend)"],
       "link": "#"
     }
@@ -44,9 +41,8 @@
     "React (Depuis Décembre 2024)",
     "Node.js (Depuis Janvier 2025)",
     "Python (Uniquement pour L'ia)",
-    "Git",
     "MongoDB, MySQL et Redis",
-    "Json, Xmpp, Rest, etc..",
+    "Json, Xmpp, Rest, Git, etc..",
     "Kubernetes",
     "RabbitMQ"
   ]

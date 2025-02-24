@@ -10,6 +10,7 @@ function App() {
   return (
     <ThemeProvider>
       <div className="min-h-screen bg-white dark:bg-black text-black dark:text-white font-space transition-colors duration-500">    
+        <ThemeToggle/>
         {/* Hero Section */}
         <section className="min-h-screen flex items-center justify-center px-4 relative overflow-hidden">
           <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_rgba(0,0,0,0.1)_0%,_transparent_70%)] dark:bg-[radial-gradient(circle_at_center,_rgba(255,255,255,0.1)_0%,_transparent_70%)]" />
@@ -24,7 +25,7 @@ function App() {
               <img
                 src={portfolioData.profile.image}
                 alt={portfolioData.profile.name}
-                className="w-48 h-48 rounded-full relative z-10 object-cover grayscale hover:grayscale-0 transition-all duration-500 shadow-2xl"
+                className="w-48 h-48 rounded-full relative z-10 object-cover"
               />
             </motion.div>
             <motion.h1
@@ -85,7 +86,7 @@ function App() {
               viewport={{ once: true }}
               className="text-6xl font-bold text-center mb-24 tracking-tighter"
             >
-              Projects
+              Mes Projets
             </motion.h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-16">
               <AnimatePresence>
@@ -107,7 +108,7 @@ function App() {
               viewport={{ once: true }}
               className="text-6xl font-bold text-center mb-24 tracking-tighter"
             >
-              Skills
+              Mes Compétences
             </motion.h2>
             <motion.div
               initial={{ opacity: 0 }}
