@@ -20,30 +20,28 @@
     {
       "title": "Shadow",
       "description": "Un Modèle de Language puissant. Fait à partir de Llama 3, Mistral-7B et DeepSeek-R1 avec Lynx (Chat)",
-      "tags": ["Java (Backend)", "Python (IA)", "MongoDb & Redis (Donnée et Site)", "Json", "(FrontEnd lié au Backend)"],
+      "tags": ["Node.js (Backend)", "Python (IA)", "MongoDb & Redis (Donnée et Site)", "Json", "(FrontEnd lié au Backend)"],
       "link": "#"
     },
     {
       "title": "Saturn",
       "description": "Plateforme de Cryptomonaie synthétique et performante possédant un design parfait.",
-      "tags": ["React (FrontEnd)", "Java (Backend)", "MongoDB (Principal)", "Redis (Cache)", "Json", "(FrontEnd lié au Backend)"],
+      "tags": ["React (FrontEnd)", "Node.js (Backend)", "MongoDB (Principal)", "Redis (Cache)", "Json", "(FrontEnd lié au Backend)"],
       "link": "#"
     },
     {
       "title": "Saint",
       "description": "Un Clone de Twitter mais avec des test de QI pour mon amusement (Insipration de FaceDev)",
-      "tags": ["React (FrontEnd)", "Java (Backend)", "MongoDb (Principal)", "Redis (Cache)", "Json", "(FrontEnd lié au Backend)"],
+      "tags": ["React (FrontEnd)", "Node.js (Backend)", "MongoDb (Principal)", "Redis (Cache)", "Json", "(FrontEnd lié au Backend)"],
       "link": "#"
     }
   ],
   "skills": [
-    "Java",
+    "Node.js",
+    "Java (Minecraft)",
     "React (Depuis Décembre 2024)",
-    "Node.js (Depuis Janvier 2025)",
     "Python (Uniquement pour L'ia)",
-    "MongoDB, MySQL et Redis",
-    "Json, Xmpp, Rest, Git, etc..",
-    "Kubernetes",
-    "RabbitMQ"
+    "MongoDB et Redis",
+    "Json, Xmpp, Rest, Git, RabbitMQ, Kubernetes, etc.."
   ]
 }

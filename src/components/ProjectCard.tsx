@@ -1,5 +1,4 @@
 import { motion } from 'framer-motion';
-import { ExternalLink } from 'lucide-react';
 import { useTheme } from '../hooks/useTheme'; // Importation du hook
 
 interface Project {
